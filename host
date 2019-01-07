@@ -1,17 +1,3 @@
-# Copyright (c) 2017-2018, googlehosts members.
-# https://github.com/googlehosts/hosts
-# Last updated: 2019-01-07
-
-# This work is licensed under a modified HOSTS License.
-# https://github.com/googlehosts/hosts/raw/master/LICENSE
-
-# Modified Hosts Start
-
-# Localhost (DO NOT REMOVE) Start
-127.0.0.1	localhost
-# Localhost (DO NOT REMOVE) End
-
-# GoogleHosts Start
 23.95.9.4	23-95-9-4.googlehosts.org
 204.44.101.36	204-44-101-36.googlehosts.org
 204.44.101.36	tg-1.googlehosts.org
@@ -51,4 +37,3 @@
 167.88.168.251	ss-4.googlehosts.org
 103.124.106.174	103-124-106-174.googlehosts.org
 103.124.106.174	proxy.googlehosts.org
-# GoogleHosts End
